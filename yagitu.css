@@ -1,0 +1,16 @@
+body{
+	background-color: #cf6a87;
+	font-family: 'roboto';
+}
+
+.judul{
+	background: #f8a5c2;
+	padding: 10px;
+	text-align: center;
+
+}
+
+.judul h1,h2,h3{
+	height: 15px;
+	color: #b33939;
+}
